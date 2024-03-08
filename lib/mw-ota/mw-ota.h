@@ -1,0 +1,1 @@
+void setup_OTA(const char* host);
